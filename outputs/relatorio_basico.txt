@@ -1,0 +1,28 @@
+=== RELATÓRIO DE ANÁLISE DE DADOS ===
+
+INFORMAÇÕES BÁSICAS:
+shape: (15, 10)
+memory_usage: 5114
+null_values: 0
+duplicate_rows: 0
+numeric_columns: 5
+categorical_columns: 5
+datetime_columns: 0
+data_types: {dtype('O'): 5, dtype('float64'): 3, dtype('int64'): 2}
+
+ESTATÍSTICAS DESCRITIVAS:
+               count  ...  missing_percentage
+preco           15.0  ...                 0.0
+quantidade      15.0  ...                 0.0
+desconto        15.0  ...                 0.0
+cliente_idade   15.0  ...                 0.0
+satisfacao      15.0  ...                 0.0
+
+[5 rows x 13 columns]
+
+OUTLIERS DETECTADOS:
+preco: 1 outliers
+quantidade: 0 outliers
+desconto: 0 outliers
+cliente_idade: 0 outliers
+satisfacao: 0 outliers

@@ -1,0 +1,16 @@
+data,produto,categoria,preco,quantidade,desconto,vendedor,regiao,cliente_idade,satisfacao
+2024-01-01,Smartphone,Eletrônicos,1200.00,2,0.10,João,Norte,25,4.5
+2024-01-02,Camiseta,Roupas,45.90,3,0.00,Maria,Sul,32,4.2
+2024-01-03,Sofá,Casa,899.99,1,0.15,Pedro,Leste,45,4.8
+2024-01-04,Notebook,Eletrônicos,2500.00,1,0.05,Ana,Oeste,28,4.7
+2024-01-05,Tênis,Esportes,189.90,2,0.20,Carlos,Norte,22,4.1
+2024-01-06,Livro,Educação,29.90,5,0.00,Lucia,Sul,35,4.6
+2024-01-07,TV,Eletrônicos,1800.00,1,0.12,Roberto,Leste,40,4.9
+2024-01-08,Jaqueta,Roupas,129.90,2,0.08,Fernanda,Norte,29,4.3
+2024-01-09,Mesa,Casa,450.00,1,0.10,Ricardo,Oeste,38,4.4
+2024-01-10,Fone,Eletrônicos,299.90,3,0.15,Sandra,Sul,26,4.8
+2024-01-11,Calça,Roupas,89.90,4,0.05,Miguel,Leste,31,4.2
+2024-01-12,Bicicleta,Esportes,899.00,1,0.18,Patricia,Norte,27,4.7
+2024-01-13,Tablet,Eletrônicos,599.90,2,0.10,Eduardo,Oeste,33,4.5
+2024-01-14,Cadeira,Casa,199.90,3,0.12,Camila,Sul,29,4.6
+2024-01-15,Relógio,Acessórios,349.90,1,0.08,Bruno,Leste,36,4.4
